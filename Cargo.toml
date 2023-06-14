@@ -5,7 +5,7 @@ edition = "2021"
 description = "A crate which introduces a type for sharing a mutable reference and mutating the value behind it."
 authors = ["Alexander Vedekhin"]
 repository = "https://github.com/alexanderved/shared_mut_ref"
-keywords = ["shared mut", "shared mutability"]
+keywords = ["shared_mut", "shared_mutability"]
 license = "MPL-2.0"
 readme = "README.md"
 
